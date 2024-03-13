@@ -1,0 +1,16 @@
+en intents.json se declaran los tipos de preguntas 
+
+tiene un diciconario en donde tag es el tipo de pregunta que se le va a ahcer 
+los patterns son lo que va a reconocer para responder
+esdecir el tag es el titulo patters como lo reconoce, y responses, las respuestas que puede dar
+
+instlaar librerias 
+pip install --user -U nltk
+pip install --user -U numpy
+pip install nltk
+pip install keras
+pip install --upgrade pip setuptools
+
+pip install tensorflow
+https://www.tensorflow.org/install/pip?hl=es-419#windows-wsl2_1
+
