@@ -1,7 +1,7 @@
 # Librerias
 pip install pandas
 pip install scikit-learn
-
+pip install tensorflow
 
 ## scikit-learn
 esta biblioreca se usa para:
